@@ -132,7 +132,7 @@ class _AuthBackgroundState extends State<AuthBackground>
                 child: Column(
                   children: const [
                     Text(
-                      'Sign In.',
+                      'Sign In',
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 50,
